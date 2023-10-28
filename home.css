@@ -196,6 +196,7 @@
 .controldivwide div span a,
 .controldivwide div div a {
     padding: 1px 0;
+    font-weight: bold;
 }
 
 .controldivwide div .acc_list {
@@ -311,6 +312,7 @@
 
 .video_view_lower_container div {
     border: none;
+    margin: 10px 0;
 }
 
 .video_view_lower_container {
